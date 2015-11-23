@@ -4,4 +4,4 @@
 
 ## Quick Tour
 * [Installation](01-installation.md)
-* [Hello World](02-hello-world.md)
+* [hello world](02-hello-world.md)
